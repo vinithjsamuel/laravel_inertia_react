@@ -1,1 +1,6 @@
-# laravel_inertia_react
+Laravel+Inertia+React starter template used in recent client projects.
+
+
+
+
+
